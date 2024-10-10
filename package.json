@@ -1,11 +1,12 @@
 {
   "name": "@anfo/treeutils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/index.js",
   "module": "dist/index.js",
-  "type": "commonjs",
+  "types": "dist/index.d.ts",
   "files": [
-    "dist/index.js"
+    "dist/index.js",
+    "dist/index.d.js"
   ],
   "repository": {
     "type": "git",
